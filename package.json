@@ -1,0 +1,21 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "My discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xernosz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "node.js": "0.0.1-security",
+    "python": "file:node_modules/python",
+    "quick.db": "file:node_modules/quick.db",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {}
+}
